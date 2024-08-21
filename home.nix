@@ -55,15 +55,15 @@
     enable = true;
     settings = {
        preload = [
-        "/home/jonas/Wallpapers/protos.jpeg"
-	"/home/jonas/Wallpapers/terran.jpeg"
-	"/home/jonas/Wallpapers/zerg.jpeg"
+        "./Wallpapers/protos.jpeg"
+	"./Wallpapers/terran.jpeg"
+	"./Wallpapers/zerg.jpeg"
       ];
 
       wallpaper = [
-        "DP-3, /home/jonas/Wallpapers/protos.jpeg"
-	"DP-2, /home/jonas/Wallpapers/terran.jpeg"
-	"DP-1, /home/jonas/Wallpapers/zerg.jpeg"      
+        "DP-3, ./Wallpapers/protos.jpeg"
+	"DP-2, ./Wallpapers/terran.jpeg"
+	"DP-1, ./Wallpapers/zerg.jpeg"      
       ];
     };
   };
